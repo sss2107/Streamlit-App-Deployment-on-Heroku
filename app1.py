@@ -2,7 +2,7 @@
 """
 Created on Sat Jun 13 02:20:31 2020
 
-@author: Krish Naik
+
 """
 
 # -*- coding: utf-8 -*-
